@@ -24,7 +24,7 @@ function Get-TimeStamp {
     .SYNOPSIS
         Outputs custom date format
     .DESCRIPTION
-        Outputs two different date formats:
+        Outputs three different date formats:
         -type "0" like 12-19, current date MM-yy format
         -type "1" like 12-31-19, current date MM-dd-yy format
         -type "2" like 12:00:00, current time HH:mm:ss, 24h format
