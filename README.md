@@ -1,10 +1,10 @@
 # usbHidWatcher
 
-Version: 2.0
-Author: Alex Evstafiev
-Creation Date:  01.08.2019
-Purpose/Change: Inventory management and security
-PS Version: 5.0 
+- Version: 2.0
+- Author: Alex Evstafiev
+- Creation Date:  01.08.2019
+- Purpose/Change: Inventory management and security
+- PS Version: 5.0 
 
 ## Usage
     
@@ -33,7 +33,7 @@ gwmi win32_usbdevice |
 
 ## Output example
 
-![Screenshot](usbHidWatcher-log-example.png)
+![Screenshot](usbHidWatcher-log-example.PNG)
 
 ## Scope
 
