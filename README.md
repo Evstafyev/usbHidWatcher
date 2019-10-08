@@ -1,4 +1,4 @@
-# usbHidWatcher
+# ![Screenshot](eye-logo-50x26.PNG) usbHidWatcher
 
 - Version: 2.0
 - Author: Alex Evstafiev
